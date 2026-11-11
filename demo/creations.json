@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4787a1ee-03a1-4b57-86e8-4092e6d32626",
+    "patternId": "xilankapu",
+    "params": {
+      "patternId": "xilankapu",
+      "symmetry": "p2",
+      "repeatX": 3,
+      "repeatY": 3,
+      "scale": 1,
+      "paletteId": "xilankapu-indigo-cinnabar",
+      "background": "paper",
+      "seed": 77,
+      "displayRotation": 0
+    },
+    "nickname": "恩施 · 幺妹",
+    "createdAt": 1794398729939,
+    "origin": "server"
+  },
+  {
+    "id": "eba9ff55-684c-4200-b249-36bea1387c93",
+    "patternId": "yangxin-butie",
+    "params": {
+      "patternId": "yangxin-butie",
+      "symmetry": "p4",
+      "repeatX": 2,
+      "repeatY": 2,
+      "scale": 1,
+      "paletteId": "yangxin-festive",
+      "background": "paper",
+      "seed": 31,
+      "displayRotation": 0
+    },
+    "nickname": "阳新 · 布贴",
+    "createdAt": 1794398718682,
+    "origin": "server"
+  },
+  {
+    "id": "6261c904-cc57-4ac7-9567-b4b5daee1d8f",
+    "patternId": "panchi-wen",
+    "params": {
+      "patternId": "panchi-wen",
+      "symmetry": "p2",
+      "repeatX": 2,
+      "repeatY": 2,
+      "scale": 1,
+      "paletteId": "panchi-bronze",
+      "background": "ink",
+      "seed": 9,
+      "displayRotation": 0
+    },
+    "nickname": "随州 · 铸铜",
+    "createdAt": 1794398718680,
+    "origin": "server"
+  },
+  {
+    "id": "b9351e64-335c-4cba-a537-70b6ab4eeb77",
+    "patternId": "chubo-shu",
+    "params": {
+      "patternId": "chubo-shu",
+      "symmetry": "p4",
+      "repeatX": 3,
+      "repeatY": 3,
+      "scale": 1,
+      "paletteId": "chubo-cinnabar",
+      "background": "paper",
+      "seed": 5,
+      "displayRotation": 0
+    },
+    "nickname": "长沙 · 守书人",
+    "createdAt": 1794398718679,
+    "origin": "server"
+  },
+  {
+    "id": "442eb67e-db32-4232-a98c-309999699b1f",
+    "patternId": "han-xiu",
+    "params": {
+      "patternId": "han-xiu",
+      "symmetry": "pm",
+      "repeatX": 2,
+      "repeatY": 2,
+      "scale": 1,
+      "paletteId": "hanxiu-gold-cinnabar",
+      "background": "paper",
+      "seed": 13,
+      "displayRotation": 0
+    },
+    "nickname": "汉绣小满",
+    "createdAt": 1794398718677,
+    "origin": "server"
+  },
+  {
+    "id": "0c2c33c7-d205-4c92-97be-3f526560cf5d",
+    "patternId": "chufeng-wen",
+    "params": {
+      "patternId": "chufeng-wen",
+      "symmetry": "pm",
+      "repeatX": 2,
+      "repeatY": 2,
+      "scale": 1,
+      "paletteId": "chufeng-lacquer",
+      "background": "paper",
+      "seed": 2026,
+      "displayRotation": 0
+    },
+    "nickname": "江陵 · 阿鲤",
+    "createdAt": 1794398718666,
+    "origin": "server"
+  }
+]
